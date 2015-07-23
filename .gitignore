@@ -1,0 +1,7 @@
+*.py[cod]
+.*
+*.exe
+dist
+build
+extensions.xml
+!.gitignore
